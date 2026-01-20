@@ -1,2 +1,3 @@
 # galerie-dessin
-Toutes les créations présentées ici sont entièrement réalisées par mes soins : logos, bannières ou fonds d’écran. Je fais cela par passion, simplement pour le plaisir de créer, et non dans un but commercial.
+All the content in this pack was fully designed by me — logos, banners, wallpapers, and other graphic assets.  
+I create these visuals for fun and personal experimentation; this is not commercial work and I do not earn money from it.
